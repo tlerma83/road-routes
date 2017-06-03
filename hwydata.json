@@ -1,0 +1,14 @@
+{
+    "highways": [{
+        "hwy1": {
+            "name": "Lombard Street, San Francisco, USA",
+            "description": "Enjoy every twist and turn on Lombard Street in San Francisco, the world’s most crooked lane. Stretching just one block between Hyde and Leavenworth streets, this small section of road contains eight hair pin bends down a pretty steep hill. Perhaps you better leave a drive out along here until after lunch?",
+            "img": "../images/lambord.jpg"
+        },
+        "hwy2": {
+            "name": "Great Ocean Road, Victoria, Australia",
+            "description": "Not only is this 150-mile stretch of tarmac one of the most famous tourist routes in the world, it’s also the world’s largest war memorial, built by soldiers returning from World War I. Running between Torquay and Warrnambool in south-eastern Australia, jump in a 4-wheeler and get exploring the natural beauty of this rugged coastline.",
+            "img": "../images/ocean.jpg"
+        }
+    }]
+}
